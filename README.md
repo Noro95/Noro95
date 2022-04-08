@@ -27,6 +27,7 @@ Also I'm learning Rust and Java (i find it boring tho, no offense java fans)
 uh what else? how to reach me?<br>
 You can join [this server](https://discord.gg/KQHYejX) or [that server](https://discord.gg/r7vfnGY) on discord (My username is Noro#4477 btw, ID: 534783899331461123)
 <br><br>
+<!--
 <details>
 <summary>Emails</summary>
   <em><strong>not owned by me heh~</strong></em><br>
@@ -37,6 +38,7 @@ You can join [this server](https://discord.gg/KQHYejX) or [that server](https://
   noro4477@outlook.com<br>
   <em><h3>Choose what you like ig</h3></em>
 </details>
+-->
 
 <a href="https://t.ly/GaCU" target="_blank">More about me</a><br>
 also i like this thing <br>![](https://komarev.com/ghpvc/?username=Noro95&color=ff3b9d&label=Views)
