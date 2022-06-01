@@ -33,9 +33,9 @@ You can join [this server](https://discord.gg/KQHYejX) or [that server](https://
 <br>
 <details>
 <summary>Emails</summary>
-  noro@openian.dev<br>
-  noro@duck.com<br>
+  [noro@openian.dev](noro@openian.dev)<br>
+  [noro@duck.com](mailto:noro@duck.com)<br>
 </details>
 
 <a href="https://t.ly/GaCU" target="_blank">More about me</a><br>
-Also I like this thing <br>![](https://komarev.com/ghpvc/?username=Noro95&color=ff3b9d&label=Views)
+Also I like this thing <br>![komarev's thing](https://komarev.com/ghpvc/?username=Noro95&color=ff3b9d&label=Views)
