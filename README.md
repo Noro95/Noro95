@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Noro (aka Andrew, tho it's not used much...)
+I'm Noro (aka Andrew btw)
 <br>
 #### What do i do?
 I create ~~and break~~ things
 
 #### What langs do i know?
-Some of each JS (TS?), C, Rust and I know Bash (if that's considered a language)
+Some of each JS, TS, C, Rust and Bash (if that's considered a language)
 
 ---
-Uhh, my most used language is JS ig<br>
-I'm learning Rust and Java (I find it boring tho, no offense Java fans)
+Uhh, my most used language is JS/TS ig<br>
+I'm learning Rust and C (so that i can do cool things and break my os)
 
 hmm what else? how to reach me?<br>
-You can join [this server](https://discord.gg/KQHYejX) or [that server](https://discord.gg/r7vfnGY) on discord (My username is Noro#4477 btw, ID: 534783899331461123)
+You can join [this server](https://discord.gg/KQHYejX) or [that server](https://discord.gg/r7vfnGY) on discord
 <br>
 <br>
 <details>
