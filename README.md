@@ -25,7 +25,7 @@ Some of each JS, TS, C, Rust and Bash (if that's considered a language)
 
 ---
 Uhh, my most used language is JS/TS ig<br>
-I'm learning Rust and C (so that i can do cool things and break my os)
+I'm learning Rust and C (so that i can do cool things and break my device)
 
 hmm what else? how to reach me?<br>
 You can join [this server](https://discord.gg/KQHYejX) or [that server](https://discord.gg/r7vfnGY) on discord
