@@ -32,10 +32,7 @@ You can join [this server](https://discord.gg/KQHYejX) or [that server](https://
 <br>
 <br>
 <details>
-<summary>Emails</summary>
-  noro@openian.dev<br>
-  noro@duck.com<br>
-</details>
+email: contact@norowa.dev
 
 <a href="https://t.ly/GaCU" target="_blank">More about me</a><br>
 Also I like this thing <br>![komarev's thing](https://komarev.com/ghpvc/?username=Noro95&color=ff3b9d&label=Views)
