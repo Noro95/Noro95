@@ -31,7 +31,6 @@ hmm what else? how to reach me?<br>
 You can join [this server](https://discord.gg/KQHYejX) or [that server](https://discord.gg/r7vfnGY) on discord
 <br>
 <br>
-<details>
 email: contact@norowa.dev
 
 <a href="https://t.ly/GaCU" target="_blank">More about me</a><br>
